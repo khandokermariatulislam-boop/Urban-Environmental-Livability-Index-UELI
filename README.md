@@ -1,1 +1,2 @@
 # Urban-Environmental-Livability-Index UELI
+# Spatiotemporal assessment of urban environmental livability in Dhaka (2004–2024). This study assesses the spatiotemporal dynamics of urban environmental livability in Dhaka for 2004, 2014, and 2024 using the Urban Environmental Livability Index (UELI) to understand the significant impacts of rapid and unplanned urbanization that deteriorate the sustainability of both natural and built-up environments.
